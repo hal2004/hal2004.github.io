@@ -32,7 +32,11 @@ layout: compress
 <div class="footer_site">
 <hr/>
 <div class="footer_copyright">
-  © 2022 华中大 · 唐健 | 基于&nbsp
+  {% if page.url contains '/en/' %}
+    © 2025 CQU · Fu Xingyi | Based on&nbsp
+  {% else %}
+    © 2025 重大 · 符兴毅 | 基于&nbsp
+  {% endif %}
   <a class="page_a"  href="https://github.com/RayeRen/acad-homepage.github.io">
   acad
   </a>&nbsp模板

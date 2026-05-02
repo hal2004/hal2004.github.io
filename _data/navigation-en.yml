@@ -1,0 +1,19 @@
+# main links
+main:
+  - title: "About"
+    url: "/en/#about-me"
+
+  - title: "Education"
+    url: "/en/#-xl"
+
+  - title: "Projects"
+    url: "/en/#-xmjl"
+
+  - title: "Experience"
+    url: "/en/#-sxjl"
+
+  - title: "Skills"
+    url: "/en/#-grjn"
+
+  - title: "Awards"
+    url: "/en/#-ryjx"
